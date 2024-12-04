@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mom and Son</title>
+</head>
+<body>
+  <h1>Mom and Son</h1>
+
+  <h2>Video 1</h2>
+  <video width="640" height="360" controls>
+    <source src="videos/category1/https://realfamilytaboo.uns.wtf/#9vc6c" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <h2>Video 2</h2>
+  <video width="640" height="360" controls>
+    <source src="videos/category1/video2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</body>
+</html>
+
